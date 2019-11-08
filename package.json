@@ -25,6 +25,7 @@
     "test:watch": "karma start karma.conf.js"
   },
   "files": [
+    "src/**",
     "build/dist/images/",
     "build/dist/worldwind.js",
     "build/dist/worldwind.min.js"
